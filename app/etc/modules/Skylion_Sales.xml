@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Skylion_Sales>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Skylion_Sales>
+    </modules>
+</config> 
